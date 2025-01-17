@@ -13,10 +13,7 @@ This is a simple and efficient Task Management App (To-Do List) that allows user
 
 ## Tech Stack
 
-- **Frontend**: React, Vite, Tailwind CSS (for UI styling)
-- **Backend**: Node.js with Express (for handling authentication and task data storage) 
-- **Database**: MongoDB or any other suitable database for persistent task storage
-- **Authentication**: JWT (JSON Web Tokens) for secure login
+-  React, Vite, Tailwind CSS (for UI styling)
 
 ## Setup Instructions
 
