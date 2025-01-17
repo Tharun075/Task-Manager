@@ -13,7 +13,7 @@ This is a simple and efficient Task Management App (To-Do List) that allows user
 
 ## Tech Stack
 
--  React, Vite, Tailwind CSS (for UI styling)
+-  React, Vite, Css
 
 ## Setup Instructions
 
